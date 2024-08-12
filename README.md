@@ -6,8 +6,10 @@
 
 ## 特点
 
-* 简单易用：只需选择 PPTX 文件，即可一键转换为 Markdown 格式。
-* 图形界面：提供直观的图形界面，操作简便。
+* 简单易用：因为[pptx2md](https://github.com/ssine/pptx2md)很好用，所以只需选择 PPTX 文件，即可一键转换为 Markdown 格式。
+* 图形界面：丑陋而且简单。
+
+![](gui.png)
 
 ## 使用方法
 
